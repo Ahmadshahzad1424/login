@@ -1,0 +1,89 @@
+body{
+    
+        height: 100vh;
+        margin: 0;
+         display: flex;
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(135deg,#5F9BE3, #BF3EF1);
+        font-family: Arial, sans-serif;     
+}
+#main{
+ 
+    width: 300px;
+    height: 500px;
+    padding: 20px;
+    background: white;
+    border-radius: 2%;
+    text-align: left ;
+     
+   
+}
+h1{
+  text-align: center;
+}
+.me{
+  border-bottom: 2px solid #ccc; 
+  margin: 20px;
+}
+input[type="text"] {
+  
+  margin: 0px;
+  padding: 0px;
+  border: none; 
+  outline: none; 
+  font-size: 16px;
+  
+}
+
+.me2{
+  border-bottom: 2px solid #ccc; 
+  margin: 20px;
+}
+
+input[type="password"] {
+  margin: 0px;
+  padding: px;
+  border: none; 
+  outline: none; 
+  font-size: 16px;
+  
+}
+
+  
+
+  #pass{
+    text-align: right;
+    padding-bottom: 20px;
+  }
+
+  #button{
+    width: 100%;
+    padding: 10px;
+    background: linear-gradient(to right,#72C4DE,#9798E8, #BF3EF1,#A74BEC);
+    border: none;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+
+  
+  #button:hover {
+    opacity: 0.9;
+  }
+
+  #sign{
+    margin-top: 20px;
+    text-align: center; 
+  }
+
+  #make{
+    margin-top: 20px;
+  }
+
+  a{
+    color: #000;
+    text-decoration: none;
+  }
+
+ 
